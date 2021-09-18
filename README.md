@@ -1,3 +1,5 @@
+ https://sehaj97.github.io/js-functions/
+
 # Functions
 
 In this activity, you will write functions to do simple math and check the arguments passed in. Then you will log the results in the browser console.
